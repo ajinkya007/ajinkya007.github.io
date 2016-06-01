@@ -4,10 +4,13 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Ajinkya Wavare. I have the following qualities:  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+21||Chelsea Fc Maniac, Tech Savvy, Programmer, long lost Hacker and a Sports person!! Mumbai,India.  
+
+My Handles at most places are ajinkya007.in  
+
+I am currently pursuing Bachelor's in Information Technology from V.J.T.I., Mumbai.  
 
 What else do you need?
 
