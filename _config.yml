@@ -41,7 +41,7 @@ avatar: "/img/avatar.jpg"
 author:
   name: Ajinkya Wavare
   email: "ajinkya007.in@gmail.com"
-  facebook: https://www.facebook.com/ajinkya007.in  # eg. daattali
+  facebook: ajinkya007.in  # eg. daattali
   github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali
   linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
